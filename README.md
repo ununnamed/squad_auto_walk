@@ -6,8 +6,8 @@ This AutoHotkey script adds useful quality-of-life features for *SquadGame*, inc
 
 | Feature                     | How to Use                                                                 | How to Stop                                     |
 |-----------------------------|-----------------------------------------------------------------------------|------------------------------------------------|
-| **AutoBuild / Repair / Heal / Revive**               | Hold **Left Mouse Button** and click **N**, then release **Mouse Button**                                    | Press any Mouse Button / **N** key / any action key. Except **WASD** and **Ctrl**                |
-| **AutoDig**                  | Hold **Right Mouse Button** and click **N**, then release **Mouse Button**                                   | Press any Mouse Button / **N** key / any action key. Except **WASD** and **Ctrl**                  |
+| **AutoBuild / Repair / Heal / Revive**               | Hold **Left Mouse Button** and click **N**, then release **Left Mouse Button**                                    | Press any Mouse Button / **N** key / any action key. Except **WASD** and **Ctrl**                |
+| **AutoDig**                  | Hold **Right Mouse Button** and click **N**, then release **Right Mouse Button**                                   | Press any Mouse Button / **N** key / any action key. Except **WASD** and **Ctrl**                  |
 | **AutoRun**                  | Hold **W** and click **N**, then release **W**                          | Press **W** or **S** or **N**     |
 | **Fast Emote**               | Click **Middle Mouse Button**                                         | —                                   |
 | **Push Vehicle**              | Hold **Left Shift** and click **N**, then release **Shift**                                                 |  Press **Right Mouse Button** / **N** key / any action key / **ASD**. Except **W** and **Ctrl**                   |
