@@ -10,7 +10,7 @@ This AutoHotkey script adds useful quality-of-life features for *SquadGame*, inc
 | **AutoDig**                  | Hold **Right Mouse Button** and click **N**, then release **Right Mouse Button**                                   | Press any **Mouse Button** / **N** key / any action key. Except **WASD** and **Ctrl**                  |
 | **AutoRun**                  | Hold **W** and click **N**, then release **W**                          | Press **W** or **S** or **N**     |
 | **Fast Emote**               | Click **Middle Mouse Button**                                         | —                                   |
-| **Push Vehicle**              | Hold **Left Shift** and click **N**, then release **Shift**                                                 |  Press **Right Mouse Button** / **N** key / any action key / **ASD**. Except **W** and **Ctrl**                   |
+| **Push Vehicle**              | Stay close and watch to a vehicle. Hold **Left Shift** and click **N**, then release **Shift**                                                 |  Press **Right Mouse Button** / **N** key / any action key / **ASD**. Except **W** and **Ctrl**                   |
 | **Fast Resupply**             | Press **Insert**                                                            | —                                              |
 | **Mute on Talk** *(optional)* | If **Scroll Lock** key is active, the sound will be muted while you're talking to prevent echo | Disable **Scroll Lock**            |
 
